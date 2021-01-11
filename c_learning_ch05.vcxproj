@@ -140,6 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01全局区.cpp" />
+    <ClCompile Include="02 栈区.cpp" />
+    <ClCompile Include="03 堆区.cpp" />
+    <ClCompile Include="04 new.cpp" />
+    <ClCompile Include="05 引用的基本语法.cpp" />
+    <ClCompile Include="06 引用做参数.cpp" />
+    <ClCompile Include="07 引用函数的返回值.cpp" />
+    <ClCompile Include="08 引用的本质.cpp" />
+    <ClCompile Include="09 常量引用.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

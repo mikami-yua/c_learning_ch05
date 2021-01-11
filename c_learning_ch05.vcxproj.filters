@@ -18,5 +18,29 @@
     <ClCompile Include="01全局区.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="02 栈区.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03 堆区.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04 new.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05 引用的基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06 引用做参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07 引用函数的返回值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08 引用的本质.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09 常量引用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

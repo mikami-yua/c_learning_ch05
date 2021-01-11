@@ -7,7 +7,7 @@ int g_a = 10;
 int g_b = 10;
 const int g_c = 10;
 
-int main() {
+int fun1() {
 	//全局区
 	/*
 	全局变量  静态变量  常量
@@ -16,7 +16,7 @@ int main() {
 	//普通局部变量
 	int a = 10;
 	int b = 10;
-
+	 
 	cout << "address of a " << &a << endl;//00EFFC08
 	cout << "address of b " << &b << endl;//00EFFBFC
 	cout << "address of ga " << &g_a << endl;//009FC034
