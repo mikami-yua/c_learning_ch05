@@ -148,6 +148,9 @@
     <ClCompile Include="07 引用函数的返回值.cpp" />
     <ClCompile Include="08 引用的本质.cpp" />
     <ClCompile Include="09 常量引用.cpp" />
+    <ClCompile Include="10 函数的默认参数.cpp" />
+    <ClCompile Include="11 函数占位参数.cpp" />
+    <ClCompile Include="12 函数的重载.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

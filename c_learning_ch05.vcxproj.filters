@@ -42,5 +42,14 @@
     <ClCompile Include="09 常量引用.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10 函数的默认参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11 函数占位参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12 函数的重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

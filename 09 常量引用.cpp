@@ -8,7 +8,7 @@ void showValue(const int& v) {//const不是为了什么功能，只是为了提�
 	cout << v << endl;
 }
 
-int main() {
+int fun9() {
 
 	int a = 100;
 	//编译器修改为 int temp=10; int& ref = temp;
